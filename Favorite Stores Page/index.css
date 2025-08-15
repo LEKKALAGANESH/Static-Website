@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-card {
+    background-color: #894bca;
+    height: 100%;
+    background-size: cover;
+}
+
+.top-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 27px;
+    padding: 30px;
+}
+
+.top-image {
+    height: 35vh;
+    width: 35vh;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.bottom-card {
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.bottom-heading {
+    color: #f780c3;
+    font-size: 20px;
+}
+
+.logo {
+    height: 10vh;
+    width: 10vh;
+    margin-top: 10px;
+}
+
+.details {
+    padding: 8px;
+    margin-left: 10px;
+}
+
+.company-name {
+    color: #323f4b;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.company-description {
+    color: #7b8794;
+    font-size: 12px;
+    font-weight: 500;
+}

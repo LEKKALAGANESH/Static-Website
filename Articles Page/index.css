@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card1 {
+    background-color: #225db0;
+    height: 100vh;
+    background-size: cover;
+    padding: 25px;
+}
+
+.heading1 {
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 30px;
+}
+
+.description {
+    color: #ffffff;
+}
+
+.inside-card {
+    background-color: #ffffff;
+    height: 18vh;
+    width: 40vw;
+    border-radius: 8px;
+    padding: 15px;
+    text-align: center;
+}
+
+.inside-image {
+    width: 10vw;
+}
+
+.inside-heading {
+    color: #1f2933;
+    font-family: 'Roboto';
+    font-size: 15px;
+}

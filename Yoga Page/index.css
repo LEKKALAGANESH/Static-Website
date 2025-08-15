@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    background-size: cover;
+    text-align: center;
+    padding: 30px;
+}
+
+.heading {
+    color: #132d84;
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.image {
+    height: 45vh;
+    width: 45vh;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 140px;
+}
+
+.description {
+    color: #253263;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.button {
+    background-color: #132d84;
+    color: #ffe2ab;
+    font-family: 'Roboto';
+    font-size: 12px;
+    height: 30px;
+    width: 80px;
+    padding: 2px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.card2 {
+    background-color: #ffedcb;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+}
+
+.image2 {
+    height: 35vh;
+    width: 50vw;
+}
+
+.heading2 {
+    color: #132d84;
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 500;
+    margin: 15px;
+}
+
+.inside-card {
+    background-color: #ffe2ab;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: left;
+    margin: 12px;
+}
+
+.inside-image {
+    width: 15vw;
+}
+
+.text-card {
+    padding: 10px;
+}
+
+.inside-heading {
+    color: #253263;
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+
+.inside-description {
+    color: #253263;
+    font-family: 'Roboto';
+    font-size: 10px;
+    font-weight: 500;
+}
